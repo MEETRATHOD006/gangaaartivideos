@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://meetrathod006.github.io/gangaaartivideos/sitemap.xml
